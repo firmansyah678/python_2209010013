@@ -1,0 +1,1 @@
+print ("membuat file hallo")
